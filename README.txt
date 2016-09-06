@@ -1,3 +1,5 @@
+REQUIRES LATEST NOTEPAD++!!!!! DEVELOPED ON V6.9.2
+
 In Notepad++ go to language > define your language then click import and select one of these files.
 
 Happy to hear of any problems or action any changes if they are needed. You can reach me on rob.mansfield@proagrica.com.
